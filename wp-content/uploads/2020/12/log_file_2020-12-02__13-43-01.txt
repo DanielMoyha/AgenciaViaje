@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Original were successfully downloaded!
+Initial max execution time = 320
+Files info:
+Site URL = http://localhost:8082/AgenciaViaje
+Data file = C:\xampp\htdocs\AgenciaViaje\wp-content\plugins\sydney-toolbox/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\AgenciaViaje\wp-content\plugins\sydney-toolbox/demo-content/demo-widgets.wie
+Customizer file = C:\xampp\htdocs\AgenciaViaje\wp-content\plugins\sydney-toolbox/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Sidebar form": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Sidebar : 
+
+Entradas recientes - Recent News - Imported
+Categorías - Categories - Imported
+Archivos - Archives - Imported
+Nube de etiquetas - Popular Tags - Imported
+mc4wp_form_widget - Sign up for Newsletter - Site does not support widget
+
+Footer 1 : 
+
+Imagen - No Title - Imported
+Texto - No Title - Imported
+
+Footer 2 : 
+
+Menú de navegación - About Us - Imported
+
+Footer 3 : 
+
+Menú de navegación - Services - Imported
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - Contact - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
